@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497549568624",
+    "project_id": "bamtol-market-02",
+    "storage_bucket": "bamtol-market-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497549568624:android:f04cf8d20382462efc22b5",
+        "android_client_info": {
+          "package_name": "com.archy712.cloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497549568624-spkc1ukpgjtg03kk6no7ne1vdrom62pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApsx9fnI9ms_-KLcLTkKTwGiJkasDmC-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497549568624-spkc1ukpgjtg03kk6no7ne1vdrom62pe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497549568624-r30cirveesnth65vj57huuq0va3ltspp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.archy712.cloneapp.bamtolMarket02"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

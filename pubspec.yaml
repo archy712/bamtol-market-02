@@ -1,0 +1,62 @@
+name: bamtol_market_02
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  flutter_svg: ^2.0.10+1
+  equatable: ^2.0.5
+  google_fonts: ^6.2.1
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.4
+  shared_preferences: ^2.3.2
+  json_annotation: ^4.9.0
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.1
+  crypto: ^3.0.5
+  photo_manager: ^3.2.3
+  #flutter_map: ^7.0.2
+  flutter_map: ^5.0.0
+  geolocator: ^12.0.0
+  latlong2: ^0.9.1
+  uuid: ^4.4.2
+  intl: ^0.19.0
+  carousel_slider: ^5.0.0
+  cached_network_image: ^3.4.0
+  timeago: ^3.7.0
+  flutter_keyboard_visibility: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  json_serializable: ^6.8.0
+  build_runner: ^2.4.12
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svg/
+    - assets/svg/icons/
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/images/logo_simbol.png"
